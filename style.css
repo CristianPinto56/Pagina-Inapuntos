@@ -61,9 +61,9 @@ body { overflow-x: hidden; line-height: 1.6; width: 100%; }
     backdrop-filter: blur(12px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
-.header-container { max-width: 1200px; margin: 0 auto; padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; }
+.header-container { max-width: 1200px; margin: 0 auto; padding: 0px 24px; display: flex; align-items: center; justify-content: space-between; }
 .logo-institucional { display: flex; align-items: center; }
-.img-logo { height: 40px; width: auto; max-width: 100%; object-fit: contain; }
+.img-logo { height: 90px; width: auto; max-width: 100%; object-fit: contain; }
 
 .nav-menu { display: flex; align-items: center; gap: 32px; }
 .nav-link { color: var(--color-texto-mutado); text-decoration: none; font-size: 0.95rem; font-weight: 500; transition: color 0.2s ease; }
